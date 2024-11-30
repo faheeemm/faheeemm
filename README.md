@@ -1,16 +1,25 @@
-## Hi there 👋
+[![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&random=false&width=435&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<!--
-**faheeemm/faheeemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm faheem! 👋
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=faheeemm&color=gray&style=flat-square" alt="profile views">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
+
+
+## Tools
+ 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,html,css,linux,notion,ps,pr,py,powershell,ubuntu,twitter,vscode,windows,linkedin,gmail,discord,autocad)](https://skillicons.dev)
+
+---
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+## 📫 Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/faheeem/). For inquiries, reach out via email at faheemahmedhyd81@gmail.com.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheeemm&layout=compact)
