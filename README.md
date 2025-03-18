@@ -1,4 +1,4 @@
-[![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&random=false&width=435&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
+![image](https://github.com/user-attachments/assets/5e4af656-2882-49b5-9a55-7f984410c083)[![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&random=false&width=435&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
 
 # hey, i'm faheem! 👋
 
@@ -20,6 +20,8 @@
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 ## 📫 Contact
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/faheeem/). For inquiries, reach out via email at faheemahmedhyd81@gmail.com.
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/faheeem/).
+        or You can visit (https://faheemm.vercel.app/).
+For inquiries, reach out via email at faheemahmedhyd81@gmail.com.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheeemm&layout=compact)
