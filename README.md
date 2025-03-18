@@ -9,7 +9,7 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js)](https://skillicons.dev)
 
 
 ## Tools
