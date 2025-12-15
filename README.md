@@ -7,14 +7,14 @@
 </p>
 
 
-## Languages
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,cpp,java,js,react,tailwind)](https://skillicons.dev)
 
 
 ## Tools
  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,html,css,linux,notion,ps,pr,py,powershell,ubuntu,twitter,vscode,windows,linkedin,gmail,discord,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,notion,ps,pr,py,powershell,vscode,autocad)](https://skillicons.dev)
 
 ---
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
