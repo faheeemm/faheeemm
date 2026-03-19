@@ -1,7 +1,8 @@
 
 
-# hey, i'm faheem! 👋
+hey! i'm faheem!
 
+focused on frontend & fullstack development, exploring modern web technologies.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faheeemm&color=gray&style=flat-square" alt="profile views">
 </p>
@@ -21,8 +22,6 @@
 
 ---
 ## 📫 Contact
-
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/faheeem/).
-        or You can visit (https://faheemm.vercel.app/).
-For inquiries, reach out via email at faheemahmedhyd82@gmail.com.
+Feel free to reach out with any questions or simply to say hello — I typically respond within 48 hours.
+[LinkedIn](https://www.linkedin.com/in/faheeem/) • [Portfolio](https://faheemm.vercel.app/) • [Email](mailto:faheemahmedhyd82@gmail.com)
 
