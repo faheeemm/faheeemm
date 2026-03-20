@@ -15,7 +15,7 @@ focused on frontend & fullstack development, exploring modern web technologies.
 
 ## Tools
  
-[![My Skills](https://skillicons.dev/icons?i=git,linux,notion,ps,pr,py,powershell,vscode,autocad,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,notion,ps,pr,py,powershell,vscode,autocad,postman,vercel)](https://skillicons.dev)
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
