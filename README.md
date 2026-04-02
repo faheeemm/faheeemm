@@ -23,5 +23,5 @@ focused on frontend & fullstack development, exploring modern web technologies.
 ---
 ## 📫 Contact
 Feel free to reach out with any questions or simply to say hello — I typically respond within 48 hours.
-[LinkedIn](https://www.linkedin.com/in/faheeem/) • [Portfolio](https://faheemm.vercel.app/) • [Email](mailto:faheemahmedhyd82@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/faheeem/) • [Portfolio](https://faheemm.vercel.app/) • [Email](mailto:faheemahmedhyd82@gmail.com) • [Leetcode](https://leetcode.com/u/faheeem/) 
 
